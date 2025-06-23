@@ -40,8 +40,8 @@
 ## Projects
 <br>
 
-## Explainable Chess Engine - Python
+# Explainable Chess Engine - Python
 
-## Zombie Game - Unity
+# Zombie Game - Unity
 
 <hr>
