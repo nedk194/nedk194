@@ -9,19 +9,15 @@
 </p>
 
 <p>
-  Currently growing my portfolio with personal projects. I enjoy working on real-world challenges, exploring new technologies, and continuously improving my development skills.
+  Currently growing my portfolio with personal projects. Experienced in 
 </p>
 
 <p>
-  📍 Currently looking for ...
+  💼 Currently looking for any kind of professional experience — internship, part-time, or full-time.
 </p>
 
 <p>
   🚀 Currently working on: <em>Your current project name or description here</em>
-</p>
-
-<p>
-  🧠 Interested in: Web development, AI, software engineering
 </p>
 
 <p>
