@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  🚀 Currently working on: <em>Your current project name or description here</em>
+  🚀 Currently building a .NET-based application that uses the ChatGPT API exploring AI-powered features.
 </p>
 
 <p>
@@ -39,5 +39,9 @@
 
 ## Projects
 <br>
+
+## Explainable Chess Engine - Python
+
+## Zombie Game - Unity
 
 <hr>
