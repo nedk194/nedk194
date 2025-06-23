@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mongodb,python,c#,sql," />
+  <img src="https://skillicons.dev/icons?i=java,mongodb,python,c#,sql" />
   <img src="https://skillicons.dev/icons?i=html,css,git" />
 </p>
 
