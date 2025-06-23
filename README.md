@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  💼 Currently looking for any kind of professional experience — internship, part-time, or full-time.
+  💼 Looking for any kind of professional experience — internship, part-time, or full-time.
 </p>
 
 <p>
