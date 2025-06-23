@@ -2,14 +2,12 @@
     Ned Kingdon
 </h1>
 
-<h1>Hi there 👋</h1>
-
 <p>
   <strong>🎓 BSc Computer Science Graduate</strong> | 💻 Passionate about building and learning through code
 </p>
 
 <p>
-  Currently growing my portfolio with personal projects. Experienced in 
+  Currently growing my portfolio with personal projects.
 </p>
 
 <p>
@@ -21,7 +19,7 @@
 </p>
 
 <p>
-  📫 How to reach me: <a href="mailto:nedkingdon@gmail.com">nedkingdon@gmail.com</a> or <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+  📫 How to reach me: <a href="mailto:nedkingdon@gmail.com">nedkingdon@gmail.com</a> or <a href="https://www.linkedin.com/in/ned-kingdon-374a55335">LinkedIn</a>
 </p>
 -->
 
