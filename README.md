@@ -2,7 +2,33 @@
     Ned Kingdon
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+<h1>Hi there 👋</h1>
+
+<p>
+  <strong>🎓 BSc Computer Science Graduate</strong> | 💻 Passionate about building and learning through code
+</p>
+
+<p>
+  Currently growing my portfolio with personal projects. I enjoy working on real-world challenges, exploring new technologies, and continuously improving my development skills.
+</p>
+
+<p>
+  📍 Currently looking for ...
+</p>
+
+<p>
+  🚀 Currently working on: <em>Your current project name or description here</em>
+</p>
+
+<p>
+  🧠 Interested in: Web development, AI, software engineering
+</p>
+
+<p>
+  📫 How to reach me: <a href="mailto:nedkingdon@gmail.com">nedkingdon@gmail.com</a> or <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
+-->
+
 
 ## 🛠️ Languages and Tools
 
