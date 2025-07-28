@@ -15,10 +15,6 @@
 </p>
 
 <p>
-  🚀 Currently building a .NET-based application that uses the ChatGPT API exploring AI-powered features.
-</p>
-
-<p>
   📫 How to reach me: <a href="mailto:nedkingdon@gmail.com">nedkingdon@gmail.com</a> or <a href="https://www.linkedin.com/in/ned-kingdon-374a55335">LinkedIn</a>
 </p>
 -->
